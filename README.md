@@ -49,18 +49,5 @@
     http://127.0.0.1:8000
     ```
 
-## Screenshots
 
-Here is a preview of the application:
-
-![Course Index Page Screenshot](/public/screenshots/course_index.png)
-![Course Create 1 Page Screenshot](/public/screenshots/course_create-1.png)
-![Course Create 2 Page Screenshot](/public/screenshots/course_create-2.png)
-![Course Create 3 Page Screenshot](/public/screenshots/course_create-3.png)
-![Course View 1 Page Screenshot](/public/screenshots/course_view-1.png)
-![Course View 2 Page Screenshot](/public/screenshots/course_view-2.png)
-![Course View 3 Page Screenshot](/public/screenshots/course_view-3.png)
-![Course Edit 1 Page Screenshot](/public/screenshots/course_edit-1.png)
-![Course Edit 2 Page Screenshot](/public/screenshots/course_edit-2.png)
-![Course Edit 3 Page Screenshot](/public/screenshots/course_edit-3.png)
 
